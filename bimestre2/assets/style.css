@@ -126,7 +126,7 @@ nav i {
 /* Hero */
 
 #hero {
-  background-image: url('/assets/img/Debate.jpg');
+  background-image: url('/bimestre2/assets/img/Debate.jpg');
   background-color: #BFBFBF;
   height: 900px;
   background-position: center;
@@ -417,4 +417,13 @@ footer p {
   margin: 0 auto;
   width: 200px;
   padding-bottom: 20px;
+}
+
+.links {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.links a{
+  border-radius: 100%;
 }
